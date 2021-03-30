@@ -7,18 +7,17 @@ But, more important, tries to understand the given information and improve the p
 
 This project contains:
 
-1. Transformación de datos:
-    - Valores faltantes
-    - Outliers: Rango intercuartílico
-    - Encoding 
+1. Data transformation:
+    - Missing Values
+    - Treatmen of Outliers
+    - Encoding
 
-2. Modelos avanzados
+2. Advanced Models
     - Random forest
     - Linear regression
-    - Optimización de hiperparámetros
-    - Resumen de rendimientos
+    - Hyperparameters optimization
+    - Summary
 
-3. Interpretación de modelos y conclusión
-
+3. Interpretation of models and conclusion
 
 
